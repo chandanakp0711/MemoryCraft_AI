@@ -1,0 +1,11 @@
+# MemoryCraft AI - dependencies (all free & open-source)
+streamlit>=1.36
+moviepy>=2.1.1
+opencv-python-headless>=4.9
+Pillow>=10.3
+numpy>=1.26
+plotly>=5.22
+reportlab>=4.2
+qrcode[pil]>=7.4
+imageio>=2.34
+imageio-ffmpeg>=0.5

@@ -120,4 +120,3 @@ Everything cinematic is configurable in [`memorycraft/config.py`](memorycraft/co
 ## 📄 License
 
 MIT — use it, fork it, celebrate with it. ⭐ **If MemoryCraft made your celebration easier, a star means a lot!**
-
